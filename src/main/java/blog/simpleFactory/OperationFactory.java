@@ -1,5 +1,8 @@
 package blog.simpleFactory;
 
+/**
+ * 工厂类
+ */
 public class OperationFactory {
 
     public static Operation createOperation(String operate) throws Exception {
